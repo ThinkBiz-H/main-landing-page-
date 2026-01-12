@@ -8,9 +8,9 @@
     "getQuote": "Get a Custom Quote"
   },
   "hero": {
-    "badge": "Enterprise IT Solutions for Uae/Dubai",
+    "badge": "Enterprise IT Solutions for UAE/Dubai",
     "title": "Trusted Digital Solutions",
-    "titleHighlight": "for Growing Businesses in Uae/Dubai",
+    "titleHighlight": "for Growing Businesses in UAE/Dubai",
     "subtitle": "We partner with forward-thinking enterprises to deliver secure, scalable, and results-driven technology solutions. From web development to mobile applications, we build digital experiences that drive business growth.",
     "cta": "Request a Consultation",
     "secondaryCta": "View Our Work",
@@ -41,7 +41,7 @@
   "services": {
     "badge": "Our Expertise",
     "title": "Comprehensive Digital Solutions",
-    "titleHighlight": "for Uae/Dubai Enterprises",
+    "titleHighlight": "for UAE/Dubai Enterprises",
     "subtitle": "From strategy to execution, we deliver end-to-end technology solutions that position your business for sustained success.",
     "items": {
       "webDevelopment": {
@@ -61,7 +61,7 @@
       },
       "ecommerce": {
         "title": "E-commerce Platforms",
-        "description": "Secure online commerce solutions with robust payment integration and inventory management tailored for the Uae/Dubai market.",
+        "description": "Secure online commerce solutions with robust payment integration and inventory management tailored for the UAE/Dubai market.",
         "features": ["Shopify & WooCommerce", "Custom Stores", "Payment Gateway"]
       },
       "uiux": {
@@ -80,7 +80,7 @@
     "badge": "Why Partner With Us",
     "title": "Your Long-Term",
     "titleHighlight": "Technology Partner",
-    "subtitle": "We build lasting partnerships with Uae/Dubai businesses, delivering reliable technology solutions that drive measurable growth and operational excellence.",
+    "subtitle": "We build lasting partnerships with UAE/Dubai businesses, delivering reliable technology solutions that drive measurable growth and operational excellence.",
     "reasons": {
       "seniorTeam": {
         "title": "Senior Engineering Team",
@@ -151,7 +151,7 @@
       "financeFlow": {
         "title": "FinanceFlow Dashboard",
         "category": "Enterprise Platform",
-        "description": "Comprehensive financial management solution with real-time analytics for a leading Uae/Dubai bank."
+        "description": "Comprehensive financial management solution with real-time analytics for a leading UAE/Dubai bank."
       },
       "gulfCommerce": {
         "title": "Gulf Commerce Platform",
@@ -164,9 +164,9 @@
         "description": "HIPAA-compliant health tracking application with wearable device integration."
       },
       "propertyHub": {
-        "title": "PropertyHub Uae/Dubai",
+        "title": "PropertyHub UAE/Dubai",
         "category": "Real Estate",
-        "description": "Premium real estate listing platform with virtual tour integration for the Uae/Dubai market."
+        "description": "Premium real estate listing platform with virtual tour integration for the UAE/Dubai market."
       },
       "deliverEase": {
         "title": "DeliverEase App",
@@ -184,30 +184,30 @@
     "badge": "Client Testimonials",
     "title": "Trusted by",
     "titleHighlight": "Industry Leaders",
-    "subtitle": "Hear from business leaders across Uae/Dubai who have partnered with us to transform their digital capabilities.",
+    "subtitle": "Hear from business leaders across UAE/Dubai who have partnered with us to transform their digital capabilities.",
     "items": {
-      "ahmed": {
-        "name": "Ahmed Al-Khalifa",
-        "role": "CEO, Uae/Dubai Financial Group",
-        "review": "ThinkBiz delivered an exceptional banking platform that transformed our digital presence. Their professionalism, attention to security, and understanding of our regulatory requirements was outstanding."
-      },
-      "fatima": {
-        "name": "Fatima Al-Mahmood",
-        "role": "Managing Director, Gulf Retail Solutions",
-        "review": "Our e-commerce platform went from concept to launch in just 8 weeks. The attention to detail and commitment to quality resulted in a 200% increase in online sales within the first quarter."
-      },
-      "mohammed": {
-        "name": "Mohammed Hassan",
-        "role": "CTO, Manama Healthcare",
-        "review": "The mobile application ThinkBiz developed for our healthcare network is exactly what we envisioned. They understood our compliance requirements and delivered a secure, user-friendly solution."
-      }
+    "ahmed": {
+      "name": "Ahmed Al-Khalifa",
+      "role": "Forensic Psychologist",
+      "review": "ThinkBiz helped us build a secure and confidential digital platform tailored for psychological assessments and case documentation. Their understanding of data privacy, compliance, and ethical standards was impressive."
+    },
+    "fatima": {
+      "name": "Fatima Al-Mahmood",
+      "role": "Industrial Designer",
+      "review": "ThinkBiz transformed my design concepts into a visually stunning and highly functional e-commerce experience. Their focus on user experience, aesthetics, and performance helped elevate my brand and reach a wider audience."
+    },
+    "mohammed": {
+      "name": "Mohammed Hassan",
+      "role": "Mechanical Engineer",
+      "review": "We partnered with ThinkBiz to develop a technical web and mobile solution for our engineering workflows. They clearly understood our industry requirements and delivered a reliable, well-structured, and scalable application."
     }
+  }
   },
   "cta": {
     "badge": "Ready to Get Started?",
     "title": "Let's Build Your",
     "titleHighlight": "Digital Future Together",
-    "subtitle": "Partner with ThinkBiz High Tech to transform your business with enterprise-grade technology solutions tailored for the Uae/Dubai market.",
+    "subtitle": "Partner with ThinkBiz High Tech to transform your business with enterprise-grade technology solutions tailored for the UAE/Dubai market.",
     "primaryCta": "Request a Consultation",
     "secondaryCta": "Talk to Our Experts",
     "features": ["Free Initial Consultation", "Custom Proposal", "No Obligation"]
@@ -247,7 +247,7 @@
     }
   },
   "footer": {
-    "description": "Enterprise-ready IT solutions for forward-thinking businesses. Your trusted technology partner in Uae/Dubai and beyond.",
+    "description": "Enterprise-ready IT solutions for forward-thinking businesses. Your trusted technology partner in UAE/Dubai and beyond.",
     "services": "Services",
     "company": "Company",
     "aboutUs": "About Us",
