@@ -1,0 +1,261 @@
+{
+  "header": {
+    "services": "Services",
+    "about": "About",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "getQuote": "Get a Custom Quote"
+  },
+  "hero": {
+    "badge": "Enterprise IT Solutions for Bahrain",
+    "title": "Trusted Digital Solutions",
+    "titleHighlight": "for Growing Businesses in Bahrain",
+    "subtitle": "We partner with forward-thinking enterprises to deliver secure, scalable, and results-driven technology solutions. From web development to mobile applications, we build digital experiences that drive business growth.",
+    "cta": "Request a Consultation",
+    "secondaryCta": "View Our Work",
+    "stats": {
+      "projects": "Projects Delivered",
+      "clients": "Client Satisfaction",
+      "support": "Support"
+    }
+  },
+  "trust": {
+    "onTimeDelivery": {
+      "title": "On-Time Delivery",
+      "description": "Reliable project timelines with milestone-based progress"
+    },
+    "enterpriseSecurity": {
+      "title": "Enterprise Security",
+      "description": "ISO-certified development with robust data protection"
+    },
+    "premiumDesign": {
+      "title": "Premium Design",
+      "description": "Professional aesthetics that establish credibility"
+    },
+    "scalableArchitecture": {
+      "title": "Scalable Architecture",
+      "description": "Future-proof solutions engineered for growth"
+    }
+  },
+  "services": {
+    "badge": "Our Expertise",
+    "title": "Comprehensive Digital Solutions",
+    "titleHighlight": "for Bahrain Enterprises",
+    "subtitle": "From strategy to execution, we deliver end-to-end technology solutions that position your business for sustained success.",
+    "items": {
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Enterprise-grade web solutions built with modern technologies. Secure, scalable platforms designed for performance and reliability.",
+        "features": ["React & Next.js", "Enterprise CMS", "Custom Backend"]
+      },
+      "digitalDesign": {
+        "title": "Digital Design",
+        "description": "Professional, conversion-focused designs that establish credibility. We create interfaces that reflect your brand's excellence.",
+        "features": ["UI/UX Design", "Brand Identity", "Responsive Design"]
+      },
+      "mobileApps": {
+        "title": "Mobile Applications",
+        "description": "Native and cross-platform applications delivering seamless experiences across iOS and Android platforms.",
+        "features": ["iOS & Android", "React Native", "Flutter Solutions"]
+      },
+      "ecommerce": {
+        "title": "E-commerce Platforms",
+        "description": "Secure online commerce solutions with robust payment integration and inventory management tailored for the Bahrain market.",
+        "features": ["Shopify & WooCommerce", "Custom Stores", "Payment Gateway"]
+      },
+      "uiux": {
+        "title": "UI/UX Consulting",
+        "description": "Strategic design consulting that transforms complex requirements into intuitive, user-centered digital experiences.",
+        "features": ["User Research", "Wireframing", "Usability Testing"]
+      },
+      "customSoftware": {
+        "title": "Custom Software",
+        "description": "Bespoke software solutions engineered to address your unique business challenges. APIs, integrations, and SaaS development.",
+        "features": ["API Development", "System Integration", "SaaS Solutions"]
+      }
+    }
+  },
+  "whyUs": {
+    "badge": "Why Partner With Us",
+    "title": "Your Long-Term",
+    "titleHighlight": "Technology Partner",
+    "subtitle": "We build lasting partnerships with Bahrain businesses, delivering reliable technology solutions that drive measurable growth and operational excellence.",
+    "reasons": {
+      "seniorTeam": {
+        "title": "Senior Engineering Team",
+        "description": "Our experienced professionals bring 8+ years of expertise delivering enterprise solutions."
+      },
+      "seo": {
+        "title": "SEO-Optimized Development",
+        "description": "Every project is engineered with search visibility in mind for maximum organic reach."
+      },
+      "mobilFirst": {
+        "title": "Mobile-First Architecture",
+        "description": "We prioritize responsive design ensuring optimal experience across all devices."
+      },
+      "transparent": {
+        "title": "Transparent Engagement",
+        "description": "Clear pricing, detailed proposals, and milestone-based delivery with no hidden costs."
+      },
+      "support": {
+        "title": "Dedicated Support",
+        "description": "Round-the-clock maintenance and support to ensure your systems run flawlessly."
+      }
+    },
+    "stats": {
+      "title": "Proven Track Record",
+      "projects": "Projects Delivered",
+      "retention": "Client Retention",
+      "engineers": "Expert Engineers",
+      "support": "Support Coverage",
+      "certification": "ISO 27001 Certified Development"
+    }
+  },
+  "process": {
+    "badge": "Our Methodology",
+    "title": "A Structured Approach to",
+    "titleHighlight": "Delivering Excellence",
+    "subtitle": "Our proven five-phase methodology ensures every project is delivered on time, within budget, and exceeds quality expectations.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery & Analysis",
+        "description": "We conduct thorough stakeholder interviews to understand your business objectives and technical requirements."
+      },
+      "design": {
+        "title": "Strategic Design",
+        "description": "Our design team creates detailed wireframes and prototypes aligned with your brand standards."
+      },
+      "development": {
+        "title": "Agile Development",
+        "description": "Our engineers build your solution using clean, maintainable code with regular milestone reviews."
+      },
+      "qa": {
+        "title": "Quality Assurance",
+        "description": "Rigorous testing across platforms ensures reliability, security, and optimal performance."
+      },
+      "launch": {
+        "title": "Launch & Support",
+        "description": "Seamless deployment followed by ongoing maintenance and dedicated support partnership."
+      }
+    }
+  },
+  "portfolio": {
+    "badge": "Our Portfolio",
+    "title": "Proven Results Across",
+    "titleHighlight": "Key Industries",
+    "subtitle": "Explore our recent work demonstrating our commitment to quality, innovation, and measurable client success.",
+    "viewCaseStudy": "View Case Study",
+    "viewAllProjects": "View All Projects",
+    "projects": {
+      "financeFlow": {
+        "title": "FinanceFlow Dashboard",
+        "category": "Enterprise Platform",
+        "description": "Comprehensive financial management solution with real-time analytics for a leading Bahrain bank."
+      },
+      "gulfCommerce": {
+        "title": "Gulf Commerce Platform",
+        "category": "E-commerce",
+        "description": "Secure online marketplace with multi-currency support and regional payment integration."
+      },
+      "healthTrack": {
+        "title": "HealthTrack Mobile",
+        "category": "Healthcare App",
+        "description": "HIPAA-compliant health tracking application with wearable device integration."
+      },
+      "propertyHub": {
+        "title": "PropertyHub Bahrain",
+        "category": "Real Estate",
+        "description": "Premium real estate listing platform with virtual tour integration for the Bahrain market."
+      },
+      "deliverEase": {
+        "title": "DeliverEase App",
+        "category": "Logistics App",
+        "description": "On-demand delivery solution with real-time tracking and fleet management."
+      },
+      "eduLearn": {
+        "title": "EduLearn LMS",
+        "category": "Education Platform",
+        "description": "Complete learning management system with video streaming for educational institutions."
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Client Testimonials",
+    "title": "Trusted by",
+    "titleHighlight": "Industry Leaders",
+    "subtitle": "Hear from business leaders across Bahrain who have partnered with us to transform their digital capabilities.",
+    "items": {
+      "ahmed": {
+        "name": "Ahmed Al-Khalifa",
+        "role": "CEO, Bahrain Financial Group",
+        "review": "ThinkBiz delivered an exceptional banking platform that transformed our digital presence. Their professionalism, attention to security, and understanding of our regulatory requirements was outstanding."
+      },
+      "fatima": {
+        "name": "Fatima Al-Mahmood",
+        "role": "Managing Director, Gulf Retail Solutions",
+        "review": "Our e-commerce platform went from concept to launch in just 8 weeks. The attention to detail and commitment to quality resulted in a 200% increase in online sales within the first quarter."
+      },
+      "mohammed": {
+        "name": "Mohammed Hassan",
+        "role": "CTO, Manama Healthcare",
+        "review": "The mobile application ThinkBiz developed for our healthcare network is exactly what we envisioned. They understood our compliance requirements and delivered a secure, user-friendly solution."
+      }
+    }
+  },
+  "cta": {
+    "badge": "Ready to Get Started?",
+    "title": "Let's Build Your",
+    "titleHighlight": "Digital Future Together",
+    "subtitle": "Partner with ThinkBiz High Tech to transform your business with enterprise-grade technology solutions tailored for the Bahrain market.",
+    "primaryCta": "Request a Consultation",
+    "secondaryCta": "Talk to Our Experts",
+    "features": ["Free Initial Consultation", "Custom Proposal", "No Obligation"]
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Let's Discuss Your",
+    "titleHighlight": "Technology Needs",
+    "subtitle": "Ready to transform your digital capabilities? Connect with our team to explore how we can support your business objectives.",
+    "teamTitle": "Contact Our Team",
+    "teamSubtitle": "We welcome the opportunity to discuss your requirements. Whether you have questions about our services or are ready to begin, our team is here to assist.",
+    "phone": "Phone",
+    "email": "Email",
+    "office": "Office",
+    "whatsappCta": "Connect via WhatsApp",
+    "form": {
+      "title": "Request Information",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your full name",
+      "businessEmail": "Business Email",
+      "emailPlaceholder": "email@company.com",
+      "phoneNumber": "Phone Number",
+      "phonePlaceholder": "+973 XXXX XXXX",
+      "service": "Service of Interest",
+      "selectService": "Select a service",
+      "webDevelopment": "Web Development",
+      "digitalDesign": "Digital Design",
+      "mobileApps": "Mobile Applications",
+      "ecommerce": "E-commerce Platforms",
+      "uiux": "UI/UX Consulting",
+      "customSoftware": "Custom Software",
+      "projectRequirements": "Project Requirements",
+      "requirementsPlaceholder": "Please describe your project requirements...",
+      "submit": "Submit Inquiry",
+      "disclaimer": "You will be connected to WhatsApp to complete your inquiry."
+    }
+  },
+  "footer": {
+    "description": "Enterprise-ready IT solutions for forward-thinking businesses. Your trusted technology partner in Bahrain and beyond.",
+    "services": "Services",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "portfolio": "Portfolio",
+    "methodology": "Our Methodology",
+    "careers": "Careers",
+    "contact": "Contact",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "ThinkBiz High Tech Pvt Ltd. All rights reserved."
+  }
+}
