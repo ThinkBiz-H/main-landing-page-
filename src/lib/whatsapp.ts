@@ -1,7 +1,7 @@
 // WhatsApp Configuration
 export const WHATSAPP_CONFIG = {
   phoneNumber: '918512001218',
-  defaultMessage: "Hi, I'm interested in discussing enterprise IT solutions for my business in Bahrain.",
+  defaultMessage: "Hi, I'm interested in discussing enterprise IT solutions for my business in UAE/Dubai ",
 };
 
 // Build WhatsApp URL with pre-filled message

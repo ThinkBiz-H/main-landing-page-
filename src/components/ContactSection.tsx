@@ -212,7 +212,7 @@ const ContactSection = () => {
     <option value="E-commerce Platforms">{t('contact.form.ecommerce')}</option>
     <option value="UI/UX Consulting">{t('contact.form.uiux')}</option>
     <option value="Custom Software">{t('contact.form.customSoftware')}</option>
-    <option value="SEO">{t('seo')}</option>
+    <option value="Seo">{t('contact.form.Seo')}</option>
   </select>
 </div>
 <div>
@@ -225,7 +225,7 @@ const ContactSection = () => {
       'Under - AED 5k ',
       'AED 8k – AED 12k',
       'AED 13K – AED 20K',
-      'AED 20+',
+      'AED 20K+',
       'Not Sure yet',
     ].map((item) => (
       <label
