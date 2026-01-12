@@ -41,20 +41,7 @@ const CTASection = () => {
           </div>
 
           {/* Trust Badges */}
-          <div className="flex flex-wrap items-center justify-center gap-6 mt-12 pt-12 border-t border-primary-foreground/10">
-            <div className="flex items-center gap-2 text-primary-foreground/70">
-              <div className="w-2 h-2 rounded-full bg-accent" />
-              <span>{t('cta.features.0')}</span>
-            </div>
-            <div className="flex items-center gap-2 text-primary-foreground/70">
-              <div className="w-2 h-2 rounded-full bg-accent" />
-              <span>{t('cta.features.1')}</span>
-            </div>
-            <div className="flex items-center gap-2 text-primary-foreground/70">
-              <div className="w-2 h-2 rounded-full bg-accent" />
-              <span>{t('cta.features.2')}</span>
-            </div>
-          </div>
+          {/*  */}
         </div>
       </div>
     </section>

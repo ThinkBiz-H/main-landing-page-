@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Phone, Mail, MapPin, MessageCircle, Send } from 'lucide-react';
+import { Phone, Mail, MapPin, MessageCircle, Send, Globe } from 'lucide-react';
+
 import { buildWhatsAppUrl, openWhatsAppWithFormData, type ContactFormData } from '@/lib/whatsapp';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
 
@@ -89,6 +90,25 @@ const ContactSection = () => {
                   <div className="font-display font-semibold text-primary">B-46, B Block, Sector 63, Noida, UP 201301</div>
                 </div>
               </div>
+             <div className={`flex items-center gap-4 p-4 rounded-lg bg-card border border-border ${isRTL ? 'flex-row-reverse' : ''}`}>
+  <div className="w-12 h-12 rounded-lg bg-accent/10 flex items-center justify-center flex-shrink-0">
+    <Globe className="w-6 h-6 text-accent" />
+  </div>
+  <div>
+    <div className="font-medium text-sm text-muted-foreground">
+      {t('Website')}
+    </div>
+    <a
+      href="https://www.thinkbizhightech.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="font-display font-semibold text-primary hover:text-accent transition"
+    >
+      www.thinkbizhightech.com
+    </a>
+  </div>
+</div>
+
             </div>
 
             {/* WhatsApp CTA */}
@@ -202,10 +222,10 @@ const ContactSection = () => {
 
   <div className="space-y-2">
     {[
-      'Under ₹25,000',
-      '₹25,000 – ₹50,000',
-      '₹50,000 – ₹1,00,000',
-      '₹1,00,000 – ₹2,00,000',
+      'Under - AED 5k ',
+      'AED 8k – AED 12k',
+      'AED 13K – AED 20K',
+      'AED 20+',
       'Not Sure yet',
     ].map((item) => (
       <label

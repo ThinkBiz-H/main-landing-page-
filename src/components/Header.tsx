@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
-import logo from '@/assets/logo.webp';
+import logo from '@/assets/logo-1.png';
 import { buildWhatsAppUrl } from '@/lib/whatsapp';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
 import LanguageToggle from './LanguageToggle';
@@ -25,8 +25,21 @@ const Header = () => {
         <div className="flex items-center justify-between h-16 md:h-20 px-4">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2">
-            <img src={logo} alt="ThinkBiz High Tech" className="h-10 md:h-12" />
-          </a>
+  <img
+    src={logo}
+    alt="ThinkBiz High Tech"
+    className="
+      h-10
+      sm:h-12
+      md:h-16
+      lg:h-20
+      w-auto
+      max-w-full
+      object-contain
+    "
+  />
+</a>
+
 
           {/* Desktop Navigation */}
           <nav className={`hidden md:flex items-center gap-8 rtl-content lang-transition`}>
